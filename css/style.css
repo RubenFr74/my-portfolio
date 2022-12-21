@@ -204,14 +204,14 @@ h4{
 }
 /*---------------------------------Card Links----------------------------*/
 #project1{
-	background-image: url(https://preview.redd.it/9ooai9gim7a91.jpg?width=640&crop=smart&auto=webp&s=2bd05ffaedbb914af83166e3ac5cc1b6c218fcf9);
+	background-image: url(/img/horiseon-img.jpg);
 	background-color: white;
 	background-size: cover;
 	background-position: center;
 
 }
 #project2{
-	background-image: url(https://cdn-icons-png.flaticon.com/512/1693/1693894.png);
+	background-image: url(/img/prework-img.jpg);
 	background-color: white;
 	background-size: cover;
 	background-position: center;
@@ -223,14 +223,18 @@ h4{
 	background-position: center;
 }
 /* -------------Card Titles------------------------------*/
-h5{
-	color: black;
-	font-size: 23px;
-	margin-bottom: 15px;
+h7{
+	color: white;
+	background-color: var(--teal) ;
+	border: 6px solid transparent;
+	font-weight: bold;
+	border-radius: 30px;
+	font-size: 25px;
+	margin-bottom: 30px;
 }
 /*----------Card Info------------------------------------*/
 .pra p{
-	color: black;
+	color:#373636;
 	font-size: 16px;
 	line-height: 27px;
 	margin-bottom: 25px;
